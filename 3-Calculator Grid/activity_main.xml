@@ -85,19 +85,15 @@
             android:id="@+id/button9"
             android:layout_width="wrap_content"
             android:layout_height="95dp"
-            android:text="*" />
+            android:text="9" />
 
         <Button
             android:id="@+id/button11"
             android:layout_width="wrap_content"
             android:layout_height="95dp"
-            android:text="9" />
-
-        <Button
-            android:id="@+id/button12"
-            android:layout_width="wrap_content"
-            android:layout_height="95dp"
             android:text="*" />
+
+        
 
         <Button
             android:id="@+id/button15"
