@@ -38,10 +38,7 @@ public class MainActivity extends AppCompatActivity {
                 intent.setClass(MainActivity.this,MainActivity3.class);
                 startActivity(intent);
                 return true;}
-        else if(item.getItemId()== R.id.item4){
-            intent.setClass(MainActivity.this,MainActivity2.class);
-            startActivity(intent);
-            return true;}
+    
         else {
             return super.onOptionsItemSelected(item);
 
